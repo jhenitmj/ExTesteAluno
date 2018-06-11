@@ -1,0 +1,8 @@
+c:\users\particular\documents\visual studio 2015\Projects\Exercicioteste\Test1exe\obj\Debug\Test1exe.csprojResolveAssemblyReference.cache
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\Exercicioteste\Test1exe\bin\Debug\Test1exe.dll
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\Exercicioteste\Test1exe\bin\Debug\Test1exe.pdb
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\Exercicioteste\Test1exe\bin\Debug\Exercicioteste.exe
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\Exercicioteste\Test1exe\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\Exercicioteste\Test1exe\bin\Debug\Exercicioteste.pdb
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\Exercicioteste\Test1exe\obj\Debug\Test1exe.dll
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\Exercicioteste\Test1exe\obj\Debug\Test1exe.pdb

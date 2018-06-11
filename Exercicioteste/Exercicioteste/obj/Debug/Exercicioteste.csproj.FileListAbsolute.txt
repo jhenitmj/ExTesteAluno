@@ -1,0 +1,6 @@
+c:\users\particular\documents\visual studio 2015\Projects\Exercicioteste\Exercicioteste\bin\Debug\Exercicioteste.exe.config
+c:\users\particular\documents\visual studio 2015\Projects\Exercicioteste\Exercicioteste\obj\Debug\Exercicioteste.csprojResolveAssemblyReference.cache
+c:\users\particular\documents\visual studio 2015\Projects\Exercicioteste\Exercicioteste\bin\Debug\Exercicioteste.exe
+c:\users\particular\documents\visual studio 2015\Projects\Exercicioteste\Exercicioteste\bin\Debug\Exercicioteste.pdb
+c:\users\particular\documents\visual studio 2015\Projects\Exercicioteste\Exercicioteste\obj\Debug\Exercicioteste.exe
+c:\users\particular\documents\visual studio 2015\Projects\Exercicioteste\Exercicioteste\obj\Debug\Exercicioteste.pdb
